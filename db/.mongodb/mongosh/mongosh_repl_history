@@ -1,0 +1,29 @@
+db.employees.find()
+show collections
+use test
+show dbs
+db.employees.find()
+show dbs
+db.createCollection("employees")
+use test
+show dbs
+use employees
+show dbs
+use test
+use employees
+use db
+show dbs
+show db
+mongo
+help
+show dbs
+use db.employees
+show dbs;
+show dbs admin()
+show admin()
+show admin
+use admin
+show dbs
+use dbs
+db.employees.find()
+show dbs
