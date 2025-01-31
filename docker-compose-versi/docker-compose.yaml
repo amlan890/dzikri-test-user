@@ -1,0 +1,12 @@
+name: dzikri-test-user
+services:
+  dzikri-test-user:
+    container_name: app1-challenge
+    image: amlan890/dzikri-test:0.0.1
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./.env:/app/.env
+      - /app/node_modules
+    environment:
+      - name=development
