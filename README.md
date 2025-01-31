@@ -21,10 +21,10 @@ How to Running :
 (How to get connection string mongo atlas)
 ![Mongo Atlas2](https://github.com/user-attachments/assets/e04cb3d2-71fe-4f5d-bfa2-900d005be2c2)
 ![Mongo Atlas3](https://github.com/user-attachments/assets/b5ec5f06-2fd6-4757-afe1-865787d6aca4)
-![Mongo Atlas4](https://github.com/user-attachments/assets/aac54099-59fc-4e18-aa46-ea927cd2a778)
+![Mongo Atlas4_EDITED](https://github.com/user-attachments/assets/43f050cd-c375-486a-aacf-f2c813b2749f)
 Contoh:
 ![Mongo Atlas5](https://github.com/user-attachments/assets/c94b8bd2-05ad-452a-96ed-75dbb15cd18d)
-13. Kembali ke CMD/Powershell/Terminal, Ketik perintah berikut :
+14. Kembali ke CMD/Powershell/Terminal, Ketik perintah berikut :
 
  docker run –env-file .env -p 8080:8080 dzikri-test:0.0.1
 
