@@ -1,7 +1,7 @@
 name: dzikri-test-user
 services:
   dzikri-test-user:
-    container_name: app1-challenge
+    container_name: dzikri-test-user
     image: amlan890/dzikri-test:0.0.1
     ports:
       - "8080:8080"
